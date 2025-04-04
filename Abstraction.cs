@@ -3,7 +3,7 @@ using System;
 namespace MyApplication
 {
   // Abstract class
-  abstract class Animal
+  abstract class  Animal
   {
     // Abstract method (does not have a body)
     public abstract void animalSound();
